@@ -1,0 +1,19 @@
+aanvraagnummer,datum,klanttype,merk,leasebedrag,looptijd,status
+A1001,2026-09-02,zakelijk,Toyota,32500,48,goedgekeurd
+A1002,2026-09-03,particulier,Kia,24900,60,in behandeling
+A1003,2026-09-04,zakelijk,Volkswagen,41200,36,goedgekeurd
+A1004,2026-09-07,particulier,Peugeot,21800,48,afgewezen
+A1005,2026-09-08,zakelijk,BMW,58900,48,goedgekeurd
+A1006,2026-09-09,particulier,Toyota,27400,60,goedgekeurd
+A1007,2026-09-10,zakelijk,Skoda,36700,36,in behandeling
+A1008,2026-09-11,particulier,Hyundai,23500,72,afgewezen
+A1009,2026-09-14,zakelijk,Volvo,49800,48,goedgekeurd
+A1010,2026-09-15,particulier,Kia,31200,60,in behandeling
+A1011,2026-09-16,zakelijk,Audi,62300,36,afgewezen
+A1012,2026-09-17,particulier,Renault,19900,48,goedgekeurd
+A1013,2026-09-18,zakelijk,Lexus,54100,48,goedgekeurd
+A1014,2026-09-21,particulier,Ford,26800,60,in behandeling
+A1015,2026-09-22,zakelijk,Toyota,38900,36,goedgekeurd
+A1016,2026-09-23,particulier,Volkswagen,29700,48,afgewezen
+A1017,2026-09-24,zakelijk,Tesla,47500,48,in behandeling
+A1018,2026-09-25,particulier,Mazda,25600,60,goedgekeurd
