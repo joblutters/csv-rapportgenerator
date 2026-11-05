@@ -19,5 +19,6 @@ for aanvraag in aanvragen:
         aantal[status] += 1        
     else:
         aantal[status] = 1    
-        
-print(aantal)
+
+for status, stuks in aantal.items():
+    print(f"{status}: {stuks}")
